@@ -1,8 +1,5 @@
 # Foundations of Representation Learning
-Foundations of Representation Learning is a narrative-driven deep learning course that unfolds like a novel. Unlike traditional categorization-based approaches (supervised vs unsupervised) and statisitcal learning, this course follows a conceptual storyline grounded in modern representation learning principles. The curriculum emphasizes end-to-end projects and practical implementation over theoretical categorization.
-
-## Relationship to Statistical Learning
-This course focuses exclusively on representation learning through deep neural networks. For comprehensive coverage of classical machine learning methods including k-NN, SVM, Decision Trees, Random Forests, and statistical foundations, see the companion course [Foundations of Statistical Learning](https://github.com/AmirhosseinMuhammadi/statistical-learning). The two courses are designed to be complementary, with this course building upon the statistical foundations covered there.
+Foundations of Representation Learning is a narrative-driven course that unfolds like a novel. Unlike traditional categorization-based approaches (supervised vs unsupervised), this course follows a conceptual storyline grounded in modern representation learning principles. The curriculum emphasizes end-to-end projects and practical implementation over theoretical categorization.
 
 ## Course Narrative
 This course takes you on a journey through the fundamental concepts of representation learning, building each chapter upon the previous one to create a cohesive understanding of how modern AI systems learn and represent information.
@@ -12,10 +9,10 @@ The course is organized into the following chapters, each expressed in separate 
 - Chapter 2: Python Essentials
 - Chapter 3: Linearity
 - Chapter 4: Non-linearity
-- Chapter 5: Curse of Dimensionality and Spatial Representations
+- Chapter 5: Curse of Dimensionality
 - Chapter 6: Unsupervised Learning
 - Chapter 7: Sequences and Creativity
-- Chapter 8: Introduction to Agentic AI
+- Chapter 8: Agentic AI
 
 ## Prerequisites
 - Python 3.8 or higher
@@ -71,12 +68,6 @@ representation-learning-foundations/
 │   ├── flask_app/
 │   └── fastapi_app/
 |
-├── data/
-│   ├── raw/           # Raw data files
-│   └── processed/     # Processed data files
-│
-├── figures/          # External images used in notebooks
-├── models/            # ML models
 ├── notebooks/        # Exploration and analysis
 │   ├── chapter_01_introduction.ipynb
 │   ├── chapter_02_python_essentials.ipynb
@@ -87,6 +78,11 @@ representation-learning-foundations/
 │   ├── chapter_07_sequences_and_creativity.ipynb
 │   └── chapter_08_agentic_ai.ipynb
 |
+├── figures/          # External images used in notebooks
+├── data/
+│   ├── raw/           # Raw data files
+│   └── processed/     # Processed data files
+│
 ├── src/               # Source code modules and production-ready ML code
 ├── tests/             # Shared tests
 ├── requirements.txt   # Python dependencies
@@ -140,6 +136,3 @@ It is possible submit pull requests, report bugs, or suggest new features.
 
 ## Additional Resources
 References are provided at the end of each chapter and are recommended for studing more.
-
-## License
-This project is intended for educational purposes. The original references and citations included in the notebook should be respected.
