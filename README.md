@@ -1,9 +1,6 @@
 # Foundations of Representation Learning
 Foundations of Representation Learning is a narrative-driven deep learning course that unfolds like a novel. Unlike traditional categorization-based approaches (supervised vs unsupervised) and statisitcal learning, this course follows a conceptual storyline grounded in modern representation learning principles. The curriculum emphasizes end-to-end projects and practical implementation over theoretical categorization.
 
-## Course Objectives
-Foundations of Representation Learning is a narrative-driven deep learning course that unfolds like a novel. Unlike traditional categorization-based approaches (supervised vs unsupervised) and statisitcal learning, this course follows a conceptual storyline grounded in modern representation learning principles. The curriculum emphasizes end-to-end projects and practical implementation over theoretical categorization.
-
 ## Relationship to Statistical Learning
 This course focuses exclusively on representation learning through deep neural networks. The core idea of representation learning is to automatically discover new and more useful representations of the input data. On the other hand, statistical learning covers classical machine learning algorithms and statistical methods that form the bedrock of modern data science including k-NN, SVM, Decision Trees, Random Forests. Unlike deep learning approaches that learn representations and features automatically, it focuses on methods that work with carefully engineered features and provide strong theoretical guarantees, interpretability, and efficiency on structured data.
 
@@ -146,4 +143,5 @@ References are provided at the end of each chapter and are recommended for studi
 
 ## License
 This project is intended for educational purposes. The original references and citations included in the notebook should be respected.
+
 
