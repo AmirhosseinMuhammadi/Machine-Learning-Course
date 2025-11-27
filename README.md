@@ -14,8 +14,9 @@ The course is organized into the following chapters, each expressed in separate 
 - Chapter 4: Non-linearity
 - Chapter 5: Curse of Dimensionality and Spatial Representations
 - Chapter 6: Unsupervised Learning
-- Chapter 7: Sequences and Creativity
-- Chapter 8: Introduction to Agentic AI
+- Chapter 7: Sequences
+- Chapter 8: Creativity
+- Chapter 9: Introduction to Agentic AI
 
 ## Prerequisites
 - Python 3.8 or higher
@@ -144,6 +145,7 @@ References are provided at the end of each chapter and are recommended for studi
 
 ## License
 This project is intended for educational purposes. The original references and citations included in the notebook should be respected.
+
 
 
 
