@@ -84,8 +84,9 @@ representation-learning-foundations/
 │   ├── chapter_04_non_linearity.ipynb
 │   ├── chapter_05_curse_of_dimensionality.ipynb
 │   ├── chapter_06_unsupervised_learning.ipynb
-│   ├── chapter_07_sequences_and_creativity.ipynb
-│   └── chapter_08_agentic_ai.ipynb
+│   ├── chapter_07_sequences.ipynb
+│   ├── chapter_08_creativity.ipynb
+│   └── chapter_09_agentic_ai.ipynb
 |
 ├── src/               # Source code modules and production-ready ML code
 ├── tests/             # Shared tests
@@ -143,5 +144,6 @@ References are provided at the end of each chapter and are recommended for studi
 
 ## License
 This project is intended for educational purposes. The original references and citations included in the notebook should be respected.
+
 
 
